@@ -15,7 +15,8 @@
 
 
 ![mawcoo Github Stats](https://github-readme-stats.vercel.app/api?username=mawcoo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawcoo&&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="mawcoo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawcoo&&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="mawcoo" /></p><br>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mawco_95?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mawco_95) <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mawcoo-25.mawcoo-25)
 [![HitCount](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25.svg)](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25)
