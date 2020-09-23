@@ -9,7 +9,45 @@
 [![HitCount](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25.svg)](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25) <br>-->
 
 <!--
-**mawcoo/mawcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mawcoo/mawcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
+</p>
+
+[personal]
+name = 'Matthew CO'
+city = 'Valencia, Spain'
+email = 'reisub0 "at" gmail.com'
+
+[professional]
+currently-employed = true
+title = 'Software Development Engineer'
+employer = ''
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'php',
+  'MySQL',
+  'JS',
+  'nodejs',
+  'opencv',
+  'html',
+  'css',
+  'vue',
+]
+
+I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
 
 <p align="center">
