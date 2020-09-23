@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 **mawcoo/mawcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mawcoo&show_icons=true" alt="mawcoo" /> 
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=mawcoo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-</p>
-<p align="left"> </p>
 
 
