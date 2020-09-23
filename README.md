@@ -1,29 +1,6 @@
 ### Hi, I'm Matthew 👋
 
 <!-- ![octocat (1)](https://user-images.githubusercontent.com/36045563/94015895-be2cd480-fdad-11ea-9ced-9b343eda999e.png)-->
-```js
-const mawcoo = {
-  technologies: 'web',
-  passions: ['performance web', web development]
- }
- ``` 
-<!-- BODY -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- FOOTER --> 
-
-
-
-
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=mawcoo-25.mawcoo-25)
 [![HitCount](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25.svg)](http://hits.dwyl.com/mawcoo-25/mawcoo-25/mawcoo-25) <br>-->
 
