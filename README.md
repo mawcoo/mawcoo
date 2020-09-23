@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=mawcoo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mawco_95?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mawco_95)
 
