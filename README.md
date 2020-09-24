@@ -1,6 +1,6 @@
 
 <head>
-  <script type="text/javascript" src="https://github.com/mawcoo/mawcoo/blob/master/style.css">
+  <stylesheet type="text/css" src="https://github.com/mawcoo/mawcoo/blob/master/style.css">
   <img style=";" width="350px" src="https://github.com/mawcoo/mawcoo/blob/master/octocat_2.png" alt="Heade Pic" /><br>
   <h1 align="center">Hi 👋, I'm Matthew</h1>
   <h3 align="center">I am passionate about videogames, AI, robotics, AV, and VR/AR.</h3>
