@@ -31,7 +31,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="tensorflow" width="60" height="60"/>
-  
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/autodesk-maya-logo.png" alt="tensorflow" width="60" height="60"/>
 </p>
 
 <!-- ![octocat (1)](https://user-images.githubusercontent.com/36045563/94015895-be2cd480-fdad-11ea-9ced-9b343eda999e.png)-->
