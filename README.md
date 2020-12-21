@@ -1,4 +1,4 @@
-<p align="center"><img width="1920px" src="https://github.com/mawcoo/mawcoo/blob/main/skills.svg" alt="Heade Pic" /></p>
+<p align="center"><img width="1920px" src="https://github.com/mawcoo/mawcoo/blob/main/skills.png" alt="Heade Pic" /></p>
 
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">I am passionate about videogames, AI, robotics, AV, and VR/AR.</h3>
