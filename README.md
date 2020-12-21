@@ -1,4 +1,4 @@
-<!-- <p align="center"><img width="280px" src="https://github.com/mawcoo/mawcoo/blob/master/octocat_3.png" alt="Heade Pic" /></p> -->
+<p align="center"><img width="280px" src="https://github.com/mawcoo/mawcoo/blob/main/skills.svg" alt="Heade Pic" /></p>
 
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">I am passionate about videogames, AI, robotics, AV, and VR/AR.</h3>
@@ -30,8 +30,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="60" height="60"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="tensorflow" width="60" height="60"/>
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/autodesk-maya-logo.png" alt="tensorflow" width="60" height="60"/>
+
 </p>
 
 <!-- ![octocat (1)](https://user-images.githubusercontent.com/36045563/94015895-be2cd480-fdad-11ea-9ced-9b343eda999e.png)-->
